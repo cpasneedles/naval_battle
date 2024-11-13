@@ -1,6 +1,6 @@
 # Naval Battle
-Designed by Dan Verssen and published by Phalanx Games, the game is playable by 2 or more players, each commanding a fleet with the objective of sinking a certain amount of their opponents' ships. 
-Each player arranges an initial fleet, with each ship represented by a card.
+Naval battle, also called touch-and-sink, is a board game in which two players must place “ships” on a secret grid and try to “hit” the opposing ships. 
+The winner is the one who manages to sink all of the opponent's ships before all of his own are.
 
 # In this version
 Same as the original naval battle game.
